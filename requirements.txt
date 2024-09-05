@@ -1,2 +1,8 @@
 openai
 chainlit
+plotly
+requests
+aiofiles
+aiohttp
+aiohttp_retry
+aiodns

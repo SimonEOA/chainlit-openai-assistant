@@ -2,3 +2,6 @@
 translations
 .files
 __pycache__
+venv
+venv/
+
