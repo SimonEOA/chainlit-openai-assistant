@@ -6,3 +6,5 @@ aiofiles
 aiohttp
 aiohttp_retry
 aiodns
+pandas
+openpyxl
